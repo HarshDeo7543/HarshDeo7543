@@ -3,30 +3,18 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DRDO+Project+Intern+%F0%9F%9A%80;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">🎓</td>
-      <td><b>Education:</b> Final-year B.Tech (CSE) @ NIST University</td>
-    </tr>
-    <tr>
-      <td align="center">📍</td>
-      <td><b>Location:</b> Ranchi, Jharkhand, India</td>
-    </tr>
-    <tr>
-      <td align="center">💼</td>
-      <td><b>Current Role:</b> Project Intern @ DRDO-ISSA</td>
-    </tr>
-    <tr>
-      <td align="center">🎯</td>
-      <td><b>Focus:</b> Full-Stack Development & Cloud Computing</td>
-    </tr>
-  </table>
+
+🎓 **Education:** Final-year B.Tech (CSE) @ NIST University  
+📍 **Location:** Ranchi, Jharkhand, India  
+💼 **Past Experience:** Project Intern @ DRDO-ISSA  
+🎯 **Focus:** Full-Stack Development & Cloud Computing
+
 </div>
 
 <br>
@@ -54,25 +42,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```yaml
-name: Harsh Deo
-located_in: Ranchi, Jharkhand
-current_role: Project Intern @ DRDO-ISSA
-education: B.Tech CSE @ NIST University
-interests: [Full-Stack Development, Cloud Computing, AI/ML]
-achievements:
-  - Selected for PwC Salesforce Launchpad '25
-  - Technical Lead @ NIST Cloud Computing Club
-  - Building production-ready scalable systems
-```
+Final-year **B.Tech (CSE)** student specializing in **full-stack development** and **cloud-integrated systems**. I build scalable REST APIs, architect efficient backends, and craft responsive frontends using modern technologies.
 
-<br>
-
-**Final-year B.Tech (CSE)** student specializing in **full-stack development** and **cloud-integrated systems**. I build scalable REST APIs, architect efficient backends, and craft responsive frontends using modern technologies.
-
-Currently interning at **DRDO**, contributing to real-world software solutions while leading the **Cloud Computing Club** as Technical Lead, mentoring peers and organizing technical workshops.
+Previously interned at **DRDO**, where I contributed to real-world software solutions. Currently leading the **Cloud Computing Club** as Technical Lead, mentoring peers and organizing technical workshops. Selected as a trainee for **PwC Salesforce Launchpad '25**.
 
 Passionate about **clean architecture**, **performance-driven development**, and building **production-ready systems**. Actively seeking opportunities in software development, cloud engineering, and full-stack roles.
+
+<br clear="right"/>
 
 <br>
 
