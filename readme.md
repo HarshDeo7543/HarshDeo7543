@@ -8,14 +8,12 @@
 
 <br>
 
-<div align="center">
-
-🎓 **Education:** Final-year B.Tech (CSE) @ NIST University  
-📍 **Location:** Ranchi, Jharkhand, India  
-💼 **Past Experience:** Project Intern @ DRDO-ISSA  
-🎯 **Focus:** Full-Stack Development & Cloud Computing
-
-</div>
+<h3>
+🎓 <b>Education:</b> Final-year B.Tech (CSE) @ NIST University<br>
+📍 <b>Location:</b> Ranchi, Jharkhand, India<br>
+💼 <b>Past Experience:</b> Project Intern @ DRDO-ISSA<br>
+🎯 <b>Focus:</b> Full-Stack Development & Cloud Computing
+</h3>
 
 <br>
 
