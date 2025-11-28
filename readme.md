@@ -18,9 +18,9 @@
 <br>
 
 <div align="center">
-  <a href="https://hdevjharkhand.vercel.app/" target="_blank">
+  <!-- <a href="https://hdevjharkhand.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/harshdeo7543/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
