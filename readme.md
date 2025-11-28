@@ -24,11 +24,11 @@
 
 ### 👨‍💻 **About Me**
 
-I am a passionate developer focused on building scalable web applications and exploring Cloud Computing.
-* 🔭 **Currently:** Working as a **Project Intern** at **DRDO-ISSA**, architecting secure resource management systems.
-* 🌱 **Learning:** Advanced NLP pipelines and Knowledge Graphs with **AWS & Gemini API**.
-* 🏅 **Selected:** Trainee for the **PwC Salesforce Launchpad '25** program.
-* 🤝 **Leadership:** Leading the **NIST Cloud Computing Club**, organizing hands-on technical workshops.
+Final-year **B.Tech (CSE)** student specializing in **full-stack development** and **cloud-integrated systems**. I build scalable REST APIs, architect efficient backends, and craft responsive frontends using **React, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, Docker, AWS, and CI/CD pipelines**. 
+
+Currently interning at **DRDO**, I contribute to real-world software solutions while leading the **Cloud Computing Club** as Technical Lead, mentoring peers and organizing technical workshops. Selected as a trainee for **PwC Salesforce Launchpad '25**.
+
+Passionate about **clean architecture**, **performance-driven development**, and building **production-ready systems**. Actively seeking opportunities in software development, cloud engineering, and full-stack roles.
 
 ---
 
@@ -63,9 +63,10 @@ I am a passionate developer focused on building scalable web applications and ex
 ### ⚡ **Github Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshDeo7543&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Harsh's Github Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDeo7543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshDeo7543&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Harsh's Github Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDeo7543&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshDeo7543&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
