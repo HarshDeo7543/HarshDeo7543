@@ -1,66 +1,114 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Harsh+Deo!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;DRDO+Project+Intern+%F0%9F%9A%80;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Harsh%20Deo&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
-  <h3>🎓 Final-year B.Tech CSE Student @ NIST University</h3>
-  <h3>📍 Ranchi, Jharkhand, India</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DRDO+Project+Intern+%F0%9F%9A%80;Cloud+%26+AI+Enthusiast+%E2%98%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<br>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🎓</td>
+      <td><b>Education:</b> Final-year B.Tech (CSE) @ NIST University</td>
+    </tr>
+    <tr>
+      <td align="center">📍</td>
+      <td><b>Location:</b> Ranchi, Jharkhand, India</td>
+    </tr>
+    <tr>
+      <td align="center">💼</td>
+      <td><b>Current Role:</b> Project Intern @ DRDO-ISSA</td>
+    </tr>
+    <tr>
+      <td align="center">🎯</td>
+      <td><b>Focus:</b> Full-Stack Development & Cloud Computing</td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://hdevjharkhand.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=dribbble&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/harshdeo7543/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshdeo5142@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/HarshDeo7543" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
----
+<br>
 
-### 👨‍💻 **About Me**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-Final-year **B.Tech (CSE)** student specializing in **full-stack development** and **cloud-integrated systems**. I build scalable REST APIs, architect efficient backends, and craft responsive frontends using **React, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, Docker, AWS, and CI/CD pipelines**. 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-Have an experience of working as a **Project Intern** at **DRDO**, I contribute to real-world software solutions while leading the **Cloud Computing Club** as Technical Lead, mentoring peers and organizing technical workshops. Selected as a trainee for **PwC Salesforce Launchpad '25**.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```yaml
+name: Harsh Deo
+located_in: Ranchi, Jharkhand
+current_role: Project Intern @ DRDO-ISSA
+education: B.Tech CSE @ NIST University
+interests: [Full-Stack Development, Cloud Computing, AI/ML]
+achievements:
+  - Selected for PwC Salesforce Launchpad '25
+  - Technical Lead @ NIST Cloud Computing Club
+  - Building production-ready scalable systems
+```
+
+<br>
+
+**Final-year B.Tech (CSE)** student specializing in **full-stack development** and **cloud-integrated systems**. I build scalable REST APIs, architect efficient backends, and craft responsive frontends using modern technologies.
+
+Currently interning at **DRDO**, contributing to real-world software solutions while leading the **Cloud Computing Club** as Technical Lead, mentoring peers and organizing technical workshops.
 
 Passionate about **clean architecture**, **performance-driven development**, and building **production-ready systems**. Actively seeking opportunities in software development, cloud engineering, and full-stack roles.
 
----
+<br>
 
-### 🚀 **My Tech Stack**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30" /> Tech Stack
 
 <div align="center">
 
-#### **Languages**
+### 💻 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,typescript,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,typescript,html,css,sql" alt="Languages" />
 </p>
 
-#### **Frontend Development**
+### 🎨 **Frontend Development**
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" alt="Frontend" />
 </p>
 
-#### **Backend & Databases**
+### ⚙️ **Backend & Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,neo4j,prisma" alt="Backend & Databases" />
 </p>
 
-#### **DevOps & Tools**
+### 🛠️ **DevOps & Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,aws,linux,docker,vscode,idea,postman" alt="DevOps & Tools" />
 </p>
 
 </div>
 
----
+<br>
 
-### ⚡ **Github Analytics**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" /> Github Analytics
 
 <div align="center">
 
@@ -84,7 +132,16 @@ Passionate about **clean architecture**, **performance-driven development**, and
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDeo7543&theme=radical&hide_border=true" width="400"/>
 </p>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
+  <br>
+  <i>⭐️ From <a href="https://github.com/HarshDeo7543">HarshDeo7543</a> | Built with 💙 and ☕</i>
 </div>
