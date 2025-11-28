@@ -25,10 +25,10 @@
 ### 👨‍💻 **About Me**
 
 I am a passionate developer focused on building scalable web applications and exploring Cloud Computing.
-* [cite_start]🔭 **Currently:** Working as a **Project Intern** at **DRDO-ISSA**, architecting secure resource management systems[cite: 12, 13, 20].
-* [cite_start]🌱 **Learning:** Advanced NLP pipelines and Knowledge Graphs with **AWS & Gemini API**[cite: 25].
-* [cite_start]🏅 **Selected:** Trainee for the **PwC Salesforce Launchpad '25** program[cite: 38].
-* [cite_start]🤝 **Leadership:** Leading the **NIST Cloud Computing Club**, organizing hands-on technical workshops[cite: 42, 44].
+* 🔭 **Currently:** Working as a **Project Intern** at **DRDO-ISSA**, architecting secure resource management systems.
+* 🌱 **Learning:** Advanced NLP pipelines and Knowledge Graphs with **AWS & Gemini API**.
+* 🏅 **Selected:** Trainee for the **PwC Salesforce Launchpad '25** program.
+* 🤝 **Leadership:** Leading the **NIST Cloud Computing Club**, organizing hands-on technical workshops.
 
 ---
 
@@ -36,27 +36,27 @@ I am a passionate developer focused on building scalable web applications and ex
 
 <div align="center">
 
-| **Core Languages** | **Frontend** | **Backend & Database** | **DevOps & Tools** |
-| :---: | :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) <br> ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) <br> ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+#### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,typescript,html,css" alt="Languages" />
+</p>
+
+#### **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" alt="Frontend" />
+</p>
+
+#### **Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,neo4j,prisma" alt="Backend & Databases" />
+</p>
+
+#### **DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,linux,docker,vscode,idea,postman" alt="DevOps & Tools" />
+</p>
 
 </div>
-
----
-
-### 🛠️ **Featured Projects**
-
-#### 🛡️ **Resource Management System (DRDO)**
-> *Tech: Next.js, TypeScript, PostgreSQL, RBAC*
-> Architected a secure full-stack system to streamline allocation workflows. [cite_start]Implemented robust security with **JWT & Role-Based Access Control** and optimized the database for handling high-volume operations[cite: 20, 21, 22].
-
-#### 🧠 **Knowledge Graph Builder**
-> *Tech: Next.js, AWS, Gemini API, React Flow*
-> Designed an automated research tool that generates interactive knowledge graphs. [cite_start]Engineered a high-speed **NLP pipeline** deployed on **AWS EC2** for complex network visualization[cite: 25, 26, 27].
-
-#### 💼 **JobMart Portal**
-> *Tech: React.js, Node.js, Express, Firebase*
-> [cite_start]Built a comprehensive job portal featuring a role-based admin panel and advanced filtering logic to improve the hiring and navigation experience[cite: 29, 31, 32].
 
 ---
 
