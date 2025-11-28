@@ -26,7 +26,7 @@
 
 Final-year **B.Tech (CSE)** student specializing in **full-stack development** and **cloud-integrated systems**. I build scalable REST APIs, architect efficient backends, and craft responsive frontends using **React, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, Docker, AWS, and CI/CD pipelines**. 
 
-Currently interning at **DRDO**, I contribute to real-world software solutions while leading the **Cloud Computing Club** as Technical Lead, mentoring peers and organizing technical workshops. Selected as a trainee for **PwC Salesforce Launchpad '25**.
+Have an experience of working as a **Project Intern** at **DRDO**, I contribute to real-world software solutions while leading the **Cloud Computing Club** as Technical Lead, mentoring peers and organizing technical workshops. Selected as a trainee for **PwC Salesforce Launchpad '25**.
 
 Passionate about **clean architecture**, **performance-driven development**, and building **production-ready systems**. Actively seeking opportunities in software development, cloud engineering, and full-stack roles.
 
