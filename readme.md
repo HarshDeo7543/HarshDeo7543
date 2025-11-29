@@ -69,7 +69,7 @@ Passionate about **clean architecture**, **performance-driven development**, and
 ### ⚙️ **Backend & Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,prisma" alt="Backend & Databases" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=plastic&logo=neo4j&logoColor=white" alt="Neo4j" height="48" width="48"/>
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" alt="Neo4j" height="48" width="48" style="background-color: #242938; padding: 4px; border-radius: 4px;"/>
 </p>
 
 ### 🛠️ **DevOps & Tools**
