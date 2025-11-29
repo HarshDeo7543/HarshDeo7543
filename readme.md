@@ -58,7 +58,8 @@ Passionate about **clean architecture**, **performance-driven development**, and
 
 ### 💻 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,typescript,html,css,sql" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,javascript,typescript,html,css" alt="Languages" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="SQL" height="48" width="48" style="background-color: #242938; padding: 4px; border-radius: 4px;"/>
 </p>
 
 ### 🎨 **Frontend Development**
