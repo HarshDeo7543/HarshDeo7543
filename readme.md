@@ -103,7 +103,7 @@ Passionate about **clean architecture**, **performance-driven development**, and
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HarshDeo7543&theme=2077&utcOffset=5.5" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshDeo7543&theme=radical&hide_border=true" width="400"/>
+  <img src="https://streak-stats.demolab.com/?user=HarshDeo7543&theme=radical&hide_border=true" width="400"/>
 </p>
 
 <br>
